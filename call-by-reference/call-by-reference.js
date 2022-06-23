@@ -7,13 +7,6 @@
 
   addItem(arr);
 
-  var obj = {};
+  console.log(arr);
 
-  function addObjItem(value) {
-    value.a = 1;
-  }
-
-  addObjItem(obj);
-
-  console.log(obj);
 })();
